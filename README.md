@@ -15,8 +15,9 @@ This dataset collect human life's activity data through Google Glass over 46 day
 | C  | 144162 (10)  | 61029 (4)   | 10  | 24 |  65 | 
 ```
 The elements of training and test denote the length of instances (sec/day).  
-The elements of Location, Sub-location, and Activity denote the number of class.
+The elements of Location, Sub-location, and Activity denote the number of behavior.
 ```
+For each image instance, location, sub-location, and activity is notated.
 
 ## Data download link
 - Participant A [[image feature](AlexNet_A.hdf5)] [[class](class_A.hdf5)] [[classinfo](classinfo_A.hdf5)]
