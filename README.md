@@ -6,3 +6,4 @@
 This dataset collect human life's activity data through Google Glass over 46 days from three participants.
 
 ## Data download link
+- Image Feature: Participant A [link](dummy) B [link](dummy) C [link](dummy)
