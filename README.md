@@ -5,7 +5,7 @@
 
 ## Description
 ![lifeome](./Lifeome.png =250x)
-<img width="150" height="200"></img>
+<img src="Lifeome.png" width="200" height="200" />
 <img src="Lifeome.png" alt="Drawing" style="width: 20px;"/>
 This dataset collect human life's activity data through Google Glass over 46 days from three participants.
 
