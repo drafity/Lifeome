@@ -4,7 +4,7 @@
 
 
 ## Description
-Image 보여주기
+![lifeome](./Lifeome.png)
 
 This dataset collect human life's activity data through Google Glass over 46 days from three participants.
 
