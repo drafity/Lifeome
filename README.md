@@ -23,3 +23,4 @@ For each image instance, location, sub-location, and activity is notated.
 - Participant A [[image feature](AlexNet_A.hdf5)] [[class](class_A.hdf5)] [[classinfo](classinfo_A.hdf5)]
 - Participant B [[image feature](AlexNet_B.hdf5)] [[class](class_B.hdf5)] [[classinfo](classinfo_B.hdf5)]
 - Participant C [[image feature](AlexNet_C.hdf5)] [[class](class_C.hdf5)] [[classinfo](classinfo_C.hdf5)]
+[ReadMe](readme.txt) for detailed description.
