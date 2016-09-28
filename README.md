@@ -19,9 +19,4 @@ The elements of Location, Sub-location, and Activity denote the number of behavi
 ```
 For each image instance, location, sub-location, and activity is notated.
 
-## Data download link
-- Participant A [[image feature](AlexNet_A.hdf5)] [[class](class_A.hdf5)] [[classinfo](classinfo_A.hdf5)]
-- Participant B [[image feature](AlexNet_B.hdf5)] [[class](class_B.hdf5)] [[classinfo](classinfo_B.hdf5)]
-- Participant C [[image feature](AlexNet_C.hdf5)] [[class](class_C.hdf5)] [[classinfo](classinfo_C.hdf5)]  
-
-[ReadMe](readme.txt) for detailed description.
+## Data download link [[link](https://drive.google.com/drive/folders/0B9-x5z36DIwWb0xRTVE0WUN6NVE)]
