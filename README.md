@@ -20,4 +20,4 @@ The elements of Location, Sub-location, and Activity denote the number of behavi
 For each image instance, location, sub-location, and activity is notated.
 
 ## Data download link 
-- Download from here [[link](https://drive.google.com/drive/folders/0B9-x5z36DIwWb0xRTVE0WUN6NVE)]
+- Download from [here](https://drive.google.com/drive/folders/0B9-x5z36DIwWb0xRTVE0WUN6NVE)
